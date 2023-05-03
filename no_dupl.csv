@@ -1,0 +1,302 @@
+number,title,author,length,year,group,chunk_numbers,trainortest
+34204,La petite Fadette,George Sand,331806.0,1869.0,34204,199.0,valid4
+24850,Lourdes,Émile Zola,1068528.0,1894.0,24850,680.0,valid4
+41054,Cours familier de Littérature - Volume 07,Alphonse de Lamartine,505709.0,1859.0,41054,315.0,valid4
+63794,La comédie de celui qui épousa une femme muette,Anatole France,48980.0,1912.0,63794,24.0,test
+12367,"Le péché de Monsieur Antoine, Tome 1",George Sand,559615.0,1845.0,Antoine,353.0,test
+799,De la terre à la lune: trajet direct en 97 heures 20 minutes,Jules Verne,341236.0,,Lune,209.0,valid4
+40172,"Le Rhin, Tome III",Victor Hugo,342010.0,1858.0,Rhin,205.0,test
+13671,Horace,George Sand,728607.0,,13671,462.0,valid4
+17225,La comtesse de Rudolstadt,George Sand,1207742.0,1852.0,Consuelo,765.0,valid1
+51266,Œuvres complètes de Guy de Maupassant - volume 06,Guy de Maupassant,228080.0,1902.0,51266,140.0,valid1
+8175,"Kéraban-Le-Têtu, Volume II",Jules Verne,324162.0,,Kéraban,199.0,valid4
+11589,Le Docteur Ox,Jules Verne,414745.0,1920.0,11589,261.0,valid4
+50144,Œuvres complètes de Guy de Maupassant - volume 05,Guy de Maupassant,449602.0,1902.0,50144,284.0,valid4
+4548,Cinq Semaines En Ballon,Jules Verne,489791.0,1862.0,4548,311.0,test
+13016,Lavinia,George Sand,79127.0,,13016,43.0,valid3
+55869,Les grands navigateurs du XVIIIe siècle,Jules Verne,1058303.0,,55869,659.0,valid3
+8712,La Conquête de Plassans,Émile Zola,688667.0,,8712,441.0,valid4
+19345,La vie littéraire. Troisième série,Anatole France,574912.0,,vie litteraire,359.0,test
+17489,Les misérables Tome I: Fantine,Victor Hugo,658260.0,1862.0,misérables,418.0,valid1
+18200,"Le Collier de la Reine, Tome II",Alexandre Dumas,663830.0,1820.0,collier,421.0,valid4
+18697,Le capitaine Pamphile,Alexandre Dumas,399553.0,1869.0,18697,243.0,valid1
+18003,La femme au collier de velours,Alexandre Dumas,331358.0,1800.0,18003,204.0,valid4
+63768,Post-scriptum de ma vie,Victor Hugo,319681.0,1901.0,63768,191.0,valid4
+29549,Le Roi s'amuse,Victor Hugo,159648.0,1832.0,29549,93.0,valid4
+41251,Cours familier de Littérature - Volume 14,Alphonse de Lamartine,404907.0,1862.0,41251,245.0,test
+4717,Autour de la Lune,Jules Verne,355527.0,,Lune,222.0,valid4
+64145,Pastiches et mélanges,Marcel Proust,439090.0,1919.0,64145,251.0,test
+8946,Le Côté de Guermantes - Première partie,Marcel Proust,412156.0,,Recherche,239.0,valid1
+6470,Le Ventre de Paris,Émile Zola,674016.0,,6470,430.0,valid2
+19344,La vie littéraire. Deuxième série,Anatole France,538987.0,,vie litteraire,339.0,test
+56622,Correspondance: Les lettres et les arts,Émile Zola,545646.0,1908.0,L'assommoir,333.0,valid1
+14038,"La Daniella, Vol. II.",George Sand,552332.0,,Daniella,349.0,valid4
+37075,Cours familier de Littérature - Volume 08,Alphonse de Lamartine,516413.0,1859.0,37075,317.0,valid1
+8174,"Kéraban-Le-Têtu, Volume I",Jules Verne,322242.0,,Kéraban,200.0,valid4
+15574,Le capitaine Paul,Alexandre Dumas,362473.0,1838.0,15574,223.0,valid3
+18402,"La San-Felice, Tome 03",Alexandre Dumas,378755.0,1840.0,San-Felice,231.0,valid1
+13198,Nouvelles lettres d'un voyageur,George Sand,355899.0,1877.0,lettres,219.0,test
+13950,"Le vicomte de Bragelonne, Tome IV.",Alexandre Dumas,1062978.0,1848.0,mousquetaires,679.0,valid4
+32640,Histoire du véritable Gribouille,George Sand,113825.0,1851.0,32640,64.0,valid3
+20143,La vie littéraire. Quatrième série,Anatole France,546029.0,,vie litteraire,335.0,test
+18321,Acté,Alexandre Dumas,396166.0,1832.0,18321,239.0,valid4
+49773,"OEuvres complètes de Gustave Flaubert, tome 3: L'éducation sentimentale, v. 1",Gustave Flaubert,413164.0,1885.0,education,262.0,test
+18773,"La San-Felice, Tome 05",Alexandre Dumas,371417.0,1877.0,San-Felice,226.0,valid1
+8692,Le Capitaine Aréna — Tome 2,Alexandre Dumas,302392.0,,impressions,186.0,valid3
+2999,A l'ombre des jeunes filles en fleurs — Deuxième partie,Marcel Proust,385952.0,,Recherche,223.0,valid1
+13303,Kourroglou,George Sand,187744.0,,13303,115.0,valid3
+45119,Œuvres complètes de Guy de Maupassant - volume 01,Guy de Maupassant,338140.0,1902.0,45119,206.0,valid4
+15235,Oeuvres illustrées de George Sand Les visions de la nuit dans les campagnes - La vallée noire - Une visite aux catacombes,George Sand,129621.0,1854.0,15235,75.0,valid4
+15203,Un billet de loterie (Le numéro 9672),Jules Verne,286760.0,1886.0,15203,179.0,valid3
+6558,La faute de l'abbé Mouret,Émile Zola,692932.0,,6558,444.0,valid3
+53247,Œuvres complètes de Guy de Maupassant - volume 09,Guy de Maupassant,253705.0,1902.0,53247,159.0,valid2
+17553,La Curée,Émile Zola,639182.0,1872.0,17553,403.0,valid4
+17795,La dernière Aldini: Simon,George Sand,360441.0,1855.0,17795,225.0,valid3
+34528,Rome,Émile Zola,1435790.0,1896.0,34528,901.0,valid4
+36812,"Création et rédemption, première partie: Le docteur mystérieux",Alexandre Dumas,803212.0,1875.0,redemption,502.0,valid4
+57019,"Mémoires de Garibaldi, tome 1/2",Alexandre Dumas,352222.0,,Garibaldi,217.0,test
+70260,"Œuvres complètes de Gustave Flaubert, tome 8",Gustave Flaubert,331823.0,1885.0,70260,207.0,valid4
+8693,Le Capitaine Aréna — Tome 1,Alexandre Dumas,298528.0,,impressions,184.0,valid3
+2998,A l'ombre des jeunes filles en fleurs - Première partie,Marcel Proust,406423.0,,Recherche,240.0,valid2
+26614,Le secrétaire intime,George Sand,363969.0,1833.0,26614,227.0,valid4
+5711,Germinal,Émile Zola,1011537.0,,5711,648.0,test
+5147,Le Jardin d'Epicure,Anatole France,202896.0,,5147,120.0,valid4
+17992,"Le comte de Monte-Cristo, Tome IV",Alexandre Dumas,716024.0,1845.0,Monte-Cristo,451.0,valid4
+58299,Evenor et Leucippe: Les amours de l'Âge d'Or; Légende antidéluvienne,George Sand,373894.0,1861.0,58299,230.0,valid2
+13951,Les trois mousquetaires,Alexandre Dumas,1344887.0,,mousquetaires,855.0,valid4
+8490,"Actes et Paroles, Volume 4: Depuis l'Exil 1876-1885",Victor Hugo,588554.0,1876.0,8490,367.0,valid4
+9976,Hernani,Victor Hugo,285795.0,1880.0,9976,165.0,valid1
+67074,Œuvres complètes de Guy de Maupassant - volume 17,Guy de Maupassant,494956.0,1902.0,67074,311.0,test
+45312,Œuvres complètes de Guy de Maupassant - volume 02,Guy de Maupassant,133946.0,1902.0,45312,75.0,valid1
+41322,"Histoire de ma Vie, Livre 2 (Vol. 5 - 9)",George Sand,1082335.0,1847.0,vie,683.0,valid4
+55517,Correspondance: Lettres de jeunesse,Émile Zola,493596.0,1907.0,L'assommoir,308.0,valid1
+58698,Les plaisirs et les jours,Marcel Proust,325047.0,1896.0,58698,196.0,test
+12837,Cora,George Sand,60900.0,,12837,32.0,valid4
+37989,Lettres d'un voyageur,George Sand,688887.0,,lettres,430.0,test
+11645,La rôtisserie de la Reine Pédauque,Anatole France,418501.0,1893.0,11645,260.0,valid4
+13744,Isidora,George Sand,339012.0,1845.0,13744,212.0,valid2
+45753,Tamaris,George Sand,410989.0,1862.0,45753,258.0,valid1
+54873,Vingt mille lieues sous les mers,Jules Verne,888939.0,1866.0,54873,561.0,valid4
+11484,Le pilote du Danube,Jules Verne,431565.0,1920.0,11484,270.0,valid1
+3000,A l'ombre des jeunes filles en fleurs — Troisième partie,Marcel Proust,435347.0,,Recherche,253.0,valid2
+13743,Le Côté de Guermantes - Troisième partie,Marcel Proust,488052.0,,Recherche,290.0,valid3
+18199,"Le Collier de la Reine, Tome I",Alexandre Dumas,830256.0,1819.0,collier,526.0,valid4
+56523,Œuvres complètes de Guy de Maupassant - volume 12,Guy de Maupassant,262057.0,1902.0,56523,162.0,valid2
+7462,Contes à Ninon,Émile Zola,399890.0,,Ninon,253.0,valid1
+19248,Opinions sociales,Anatole France,268547.0,1924.0,Bergeret,165.0,valid1
+55167,Œuvres complètes de Guy de Maupassant - volume 10,Guy de Maupassant,329121.0,1902.0,55167,206.0,valid3
+60610,Œuvres complètes de Guy de Maupassant - volume 15,Guy de Maupassant,276242.0,1902.0,60610,172.0,valid4
+5154,La Bête humaine,Émile Zola,767897.0,,5154,488.0,valid2
+15287,Teverino,George Sand,312463.0,1845.0,15287,194.0,valid1
+39885,Cours familier de Littérature - Volume 12,Alphonse de Lamartine,384527.0,1861.0,39885,233.0,valid2
+68271,Œuvres complètes de Guy de Maupassant - volume 21,Guy de Maupassant,200051.0,1902.0,68271,120.0,valid4
+13374,"Consuelo, Tome 3 (1861)",George Sand,723847.0,1861.0,Consuelo,456.0,valid1
+62787,Mauprat,George Sand,669151.0,,62787,425.0,valid4
+6377,Thais,Anatole France,299338.0,,6377,184.0,valid3
+13380,Gabriel,George Sand,232842.0,1854.0,13380,143.0,valid3
+15226,Nanon La bibliothèque précieuse,George Sand,538851.0,1872.0,15226,339.0,valid4
+19249,La vie littéraire. Première série,Anatole France,504644.0,1924.0,vie litteraire,315.0,test
+23582,La Mare au Diable,George Sand,212802.0,1804.0,23582,130.0,valid4
+17911,Légendes rustiques,George Sand,135183.0,,17911,79.0,valid4
+56374,Œuvres complètes de Guy de Maupassant - volume 11,Guy de Maupassant,243595.0,1902.0,56374,150.0,valid3
+13917,"La Daniella, Vol. I.",George Sand,571104.0,,Daniella,357.0,valid4
+10160,Pierre Nozière,Anatole France,336055.0,,10160,211.0,valid2
+17345,Histoire comique,Anatole France,268193.0,,17345,165.0,valid2
+57461,Ed. Manet: étude biographique et critique,Émile Zola,68749.0,1867.0,57461,36.0,valid4
+12862,Aldo le rimeur,George Sand,66878.0,,12862,35.0,valid1
+16852,Au bonheur des dames,Émile Zola,914185.0,1883.0,16852,584.0,valid1
+7268,Monsieur Bergeret à Paris: Histoire Contemporaine,Anatole France,336558.0,,Bergeret,208.0,valid1
+15288,Sodome et Gomorrhe - Première partie,Marcel Proust,616267.0,,Recherche,365.0,valid3
+12865,Mattea,George Sand,118035.0,,12865,67.0,valid4
+55135,P'tit-bonhomme,Jules Verne,747837.0,,55135,472.0,valid1
+58427,"La San-Felice, Tome 07, Emma Lyonna, tome 3",Alexandre Dumas,366441.0,1876.0,San-Felice,221.0,valid1
+46387,Œuvres complètes de Guy de Maupassant - volume 03,Guy de Maupassant,302813.0,1902.0,46387,188.0,valid4
+17989,"Le comte de Monte-Cristo, Tome I",Alexandre Dumas,727501.0,1845.0,Monte-Cristo,456.0,valid4
+39101,"Histoire de ma Vie, Livre 1 (Vol. 1 - 4)",George Sand,858154.0,1847.0,vie,539.0,valid4
+57373,"OEuvres complètes de Gustave Flaubert, tome 5: La tentation de saint Antoine",Gustave Flaubert,290438.0,1885.0,57373,179.0,valid4
+57525,"OEuvres complètes de Gustave Flaubert, tome 6: Trois contes, suivis de mélanges inédits",Gustave Flaubert,538104.0,1885.0,57525,335.0,valid3
+7770,Les Quarante-Cinq — Tome 1,Alexandre Dumas,481195.0,,Valois,300.0,valid4
+18271,Georges,Alexandre Dumas,731094.0,1827.0,18271,456.0,valid4
+14810,La maison à vapeur: Voyage à travers l'Inde septentrionale,Jules Verne,721392.0,1880.0,14810,457.0,test
+60354,Ruy Blas: Drame,Victor Hugo,209914.0,1838.0,60354,115.0,valid4
+45013,Cours familier de Littérature - Volume 18,Alphonse de Lamartine,567598.0,1864.0,45013,355.0,valid4
+6497,L'Assommoir,Émile Zola,957583.0,1869.0,L'assommoir,616.0,valid1
+13838,"Correspondance, 1812-1876 — Tome 3",George Sand,512389.0,1812.0,correspondance,319.0,test
+18075,Mademoiselle La Quintinie,George Sand,616522.0,1807.0,18075,387.0,valid3
+37608,Cours familier de Littérature - Volume 15,Alphonse de Lamartine,395723.0,1863.0,37608,239.0,valid2
+2650,Du côté de chez Swann,Marcel Proust,993007.0,,Recherche,590.0,valid4
+48359,"OEuvres complètes de Gustave Flaubert, tome 1 (of 8): Madame Bovary",Gustave Flaubert,889110.0,1885.0,48359,562.0,valid1
+37630,Cours familier de Littérature - Volume 20,Alphonse de Lamartine,420001.0,1865.0,37630,259.0,valid4
+41079,Cours familier de Littérature - Volume 21,Alphonse de Lamartine,444258.0,1866.0,41079,274.0,valid1
+9644,Littérature et Philosophie mêlées,Victor Hugo,528361.0,1819.0,9644,327.0,valid4
+56808,La vérité en marche: L'affaire Dreyfus,Émile Zola,380352.0,1901.0,56808,230.0,valid3
+18028,Le chevalier d'Harmental,Alexandre Dumas,992101.0,1802.0,18028,618.0,valid2
+8561,Une page d'amour,Émile Zola,630698.0,1868.0,8561,401.0,valid2
+13837,"Correspondance, 1812-1876 — Tome 2",George Sand,515306.0,1812.0,correspondance,323.0,test
+51423,Œuvres complètes de Guy de Maupassant - volume 07,Guy de Maupassant,239851.0,1902.0,51423,148.0,valid3
+17494,Les misérables Tome III: Marius,Victor Hugo,512165.0,1862.0,misérables,320.0,valid1
+17493,Les misérables Tome II: Cosette,Victor Hugo,581624.0,1862.0,misérables,366.0,valid1
+28623,Le poëme de Myrza - Hamlet,George Sand,62973.0,,28623,33.0,valid1
+13653,Elle et lui,George Sand,376580.0,,13653,235.0,valid4
+13839,"Correspondance, 1812-1876 — Tome 5",George Sand,493074.0,1812.0,correspondance,309.0,test
+45012,Cours familier de Littérature - Volume 02,Alphonse de Lamartine,498869.0,1856.0,45012,307.0,valid4
+17831,La Débâcle,Émile Zola,1145539.0,1892.0,17831,728.0,valid1
+14688,Un hiver à Majorque,George Sand,321489.0,1855.0,14688,192.0,valid4
+7771,Les Quarante-Cinq — Tome 2,Alexandre Dumas,491250.0,,Valois,308.0,valid4
+4968,Les Cinq Cents Millions De La Bégum,Jules Verne,321583.0,,4968,197.0,valid4
+14287,L'île mystérieuse,Jules Verne,1209054.0,1875.0,14287,766.0,valid2
+7173,Sur la pierre blanche,Anatole France,284669.0,,7173,172.0,valid3
+8907,Pot-Bouille,Émile Zola,829638.0,,8907,533.0,valid4
+8560,Le Docteur Pascal,Émile Zola,722767.0,,8560,452.0,test
+13263,Valvèdre,George Sand,514523.0,1863.0,13263,323.0,valid2
+5081,Les Indes Noires,Jules Verne,332840.0,,5081,205.0,valid2
+9645,Quatrevingt-Treize,Victor Hugo,686656.0,,9645,437.0,valid4
+40195,Cours familier de Littérature - Volume 13,Alphonse de Lamartine,374471.0,1862.0,40195,230.0,valid4
+15397,Francia; Un bienfait n'est jamais perdu,George Sand,267906.0,1899.0,15397,167.0,test
+13818,Jacques,George Sand,633865.0,,13818,402.0,test
+46470,Œuvres complètes de Guy de Maupassant - volume 04,Guy de Maupassant,242742.0,1902.0,46470,149.0,valid1
+9639,La dame de Monsoreau — Tome 3.,Alexandre Dumas,491019.0,1890.0,Valois,309.0,valid4
+9262,Le corricolo,Alexandre Dumas,1198269.0,,impressions,759.0,valid3
+49409,Cours familier de Littérature - Volume 27,Alphonse de Lamartine,382331.0,1869.0,49409,235.0,valid3
+9637,La dame de Monsoreau — ­Tome 1.,Alexandre Dumas,567769.0,1890.0,Valois,355.0,valid4
+37617,Cours familier de Littérature - Volume 17,Alphonse de Lamartine,540819.0,1864.0,37617,335.0,test
+14806,La Jangada: Huit cent lieues sur l'Amazone,Jules Verne,567627.0,1881.0,14806,356.0,valid4
+8524,L'Île Des Pingouins,Anatole France,496448.0,1908.0,8524,311.0,valid1
+67158,Œuvres complètes de Guy de Maupassant - volume 18,Guy de Maupassant,292163.0,1902.0,67158,181.0,valid4
+5250,Nana,Émile Zola,872570.0,,5250,560.0,test
+18006,Le Chevalier de Maison-Rouge,Alexandre Dumas,797859.0,1800.0,18006,505.0,valid4
+13628,La Esmeralda,Victor Hugo,79408.0,1880.0,13628,26.0,valid2
+26504,La tulipe noire,Alexandre Dumas,424536.0,1850.0,26504,263.0,test
+34451,Paris,Émile Zola,1086205.0,1898.0,34451,689.0,valid3
+57567,Œuvres complètes de Guy de Maupassant - volume 14,Guy de Maupassant,257537.0,1902.0,57567,160.0,valid4
+69098,Les dames vertes,George Sand,176195.0,1879.0,69098,106.0,valid4
+12999,Le Côté de Guermantes - Deuxième partie,Marcel Proust,458739.0,,Recherche,279.0,valid4
+25981,Les beaux messieurs de Bois-Doré,George Sand,1006358.0,,25981,639.0,test
+18205,Simon,George Sand,315748.0,1820.0,18205,195.0,test
+2682,Henri III et sa Cour,Alexandre Dumas,123860.0,,2682,73.0,valid4
+37616,Cours familier de Littérature - Volume 16,Alphonse de Lamartine,520773.0,1863.0,37616,323.0,valid4
+12338,Contes d'une grand-mère,George Sand,288564.0,1876.0,12338,177.0,valid3
+49408,Cours familier de Littérature - Volume 26,Alphonse de Lamartine,430415.0,1868.0,49408,265.0,valid4
+60720,La Prisonnière (Sodome et Gomorrhe III),Marcel Proust,943385.0,1923.0,Recherche,574.0,valid4
+18401,"La San-Felice, Tome 02",Alexandre Dumas,371672.0,1840.0,San-Felice,227.0,valid1
+9638,La dame de Monsoreau — Tome 2.,Alexandre Dumas,551511.0,1890.0,Valois,347.0,valid4
+37076,Cours familier de Littérature - Volume 09,Alphonse de Lamartine,474340.0,1860.0,37076,295.0,valid3
+13819,Les compagnons de Jéhu,Alexandre Dumas,1150830.0,1857.0,13819,730.0,test
+13025,La Marquise,George Sand,75747.0,,13025,42.0,valid4
+15584,Jean Ziska: épisode de la guerre des Hussites,George Sand,272152.0,1853.0,15584,162.0,valid4
+11927,Aventures du Capitaine Hatteras,Jules Verne,837997.0,1927.0,11927,534.0,test
+12533,Sans dessus dessous,Jules Verne,311422.0,1889.0,Lune,191.0,valid4
+41056,Cours familier de Littérature - Volume 19,Alphonse de Lamartine,495710.0,1865.0,41056,301.0,valid4
+13875,"Correspondance, 1812-1876 — Tome 4",George Sand,478671.0,1812.0,correspondance,296.0,test
+30831,Le Piccinino,George Sand,957269.0,1854.0,30831,607.0,valid4
+20254,Les maîtres sonneurs,George Sand,715507.0,1857.0,20254,450.0,valid1
+12534,"Le péché de Monsieur Antoine, Tome 2",George Sand,295139.0,,Antoine,181.0,test
+13629,"Correspondance, 1812-1876 — Tome 1",George Sand,489440.0,1812.0,correspondance,306.0,test
+15388,Leone Leoni,George Sand,278463.0,,15388,172.0,valid4
+17798,L'île à hélice,Jules Verne,715035.0,1895.0,17798,448.0,valid4
+40239,"Le Rhin, Tome IV",Victor Hugo,304979.0,1858.0,Rhin,186.0,test
+12448,L'Orco,George Sand,37504.0,,12448,16.0,valid2
+8863,Le Speronare,Alexandre Dumas,1052890.0,,impressions,663.0,valid3
+66505,"OEuvres complètes de Gustave Flaubert, tome 7: Bouvard et Pécuchet",Gustave Flaubert,650034.0,1885.0,66505,413.0,valid4
+16827,Le village aérien,Jules Verne,377115.0,1901.0,16827,234.0,valid1
+17796,Le pays des fourrures,Jules Verne,839153.0,1873.0,17796,531.0,valid3
+28977,Cadio,George Sand,565112.0,1868.0,28977,358.0,valid4
+7442,Michel Strogoff: De Moscou a Irkoutsk,Jules Verne,640534.0,,7442,403.0,valid3
+17557,Son Excellence Eugène Rougon,Émile Zola,780151.0,1876.0,17557,500.0,valid2
+17990,"Le comte de Monte-Cristo, Tome II",Alexandre Dumas,706860.0,1845.0,Monte-Cristo,443.0,valid4
+14372,Autour de la table,George Sand,581796.0,1876.0,14372,356.0,valid2
+30917,Cours familier de Littérature - Volume 04,Alphonse de Lamartine,567798.0,1857.0,30917,348.0,valid2
+22048,Napoléon Le Petit,Victor Hugo,421977.0,1882.0,22048,261.0,valid3
+36477,Les Dieux ont soif,Anatole France,411726.0,,36477,253.0,valid4
+13592,L'Uscoque,George Sand,386944.0,,13592,240.0,valid4
+5126,Robur-le-conquérant,Jules Verne,365121.0,1886.0,5126,225.0,valid4
+12447,Pauline,George Sand,161576.0,1832.0,12447,96.0,valid4
+15239,Spiridion,George Sand,468059.0,1855.0,15239,292.0,valid2
+42765,"Histoire de ma Vie, Livre 3 (Vol. 10 - 13)",George Sand,842104.0,1847.0,vie,525.0,valid4
+26476,"Création et rédemption, deuxième partie: La fille du marquis",Alexandre Dumas,707767.0,1875.0,redemption,448.0,valid4
+16826,Face au drapeau,Jules Verne,359527.0,1896.0,16826,223.0,valid4
+15208,Les mille et un fantômes,Alexandre Dumas,318288.0,,15208,196.0,valid2
+68036,Œuvres complètes de Guy de Maupassant - volume 20,Guy de Maupassant,219694.0,1902.0,68036,135.0,valid4
+19233,Les opinions de M. Jérôme Coignard Recueillies par Jacques Tournebroche,Anatole France,251202.0,1923.0,19233,154.0,valid4
+22618,Cours familier de Littérature - Volume 01,Alphonse de Lamartine,463504.0,1856.0,22618,285.0,valid1
+6994,Han d'Islande,Victor Hugo,741768.0,1833.0,6994,465.0,test
+19657,Notre-Dame de Paris,Victor Hugo,1046457.0,1831.0,19657,658.0,valid4
+30918,Cours familier de Littérature - Volume 05,Alphonse de Lamartine,450001.0,1858.0,30918,274.0,valid3
+50664,Clio,Anatole France,146811.0,1900.0,50664,87.0,valid2
+12889,Promenades autour d'un village,George Sand,261173.0,,12889,160.0,valid4
+17533,Le Rêve,Émile Zola,406810.0,1888.0,17533,256.0,test
+43889,La Coupe; Lupo Liverani; Le Toast; Garnier; Le Contrebandier; La Rêverie à Paris,George Sand,280658.0,1876.0,43889,173.0,valid1
+13952,Vingt ans après,Alexandre Dumas,1658962.0,1845.0,mousquetaires,1057.0,valid4
+18586,"La San-Felice, Tome 04",Alexandre Dumas,358799.0,1858.0,San-Felice,218.0,valid1
+52753,Œuvres complètes de Guy de Maupassant - volume 08,Guy de Maupassant,299799.0,1902.0,52753,185.0,valid2
+42151,"Le Rhin, Tome II",Victor Hugo,244601.0,1858.0,Rhin,146.0,test
+67024,Œuvres complètes de Guy de Maupassant - volume 16,Guy de Maupassant,267474.0,1902.0,67024,165.0,test
+41986,"Le Rhin, Tome I",Victor Hugo,359937.0,1858.0,Rhin,214.0,test
+17991,"Le comte de Monte-Cristo, Tome III",Alexandre Dumas,673214.0,1845.0,Monte-Cristo,424.0,valid4
+60450,Les naufragés du Jonathan,Jules Verne,876780.0,1909.0,60450,559.0,valid4
+16286,Lucrezia Floriani,George Sand,478586.0,,16286,301.0,valid1
+37771,Le comte de Moret,Alexandre Dumas,1213357.0,1866.0,37771,759.0,valid3
+13948,"Le vicomte de Bragelonne, Tome II.",Alexandre Dumas,953330.0,1848.0,mousquetaires,610.0,valid4
+14163,Les enfants du capitaine Grant,Jules Verne,1208796.0,1868.0,14163,774.0,valid4
+800,Le tour du monde en quatre-vingts jours,Jules Verne,421346.0,1873.0,800,263.0,valid2
+12869,Metella,George Sand,109069.0,,12869,63.0,valid3
+60812,Adriani,George Sand,347778.0,1863.0,60812,217.0,valid4
+17518,Les misérables Tome IV: L'idylle rue Plumet et l'épopée rue Saint-Denis,Victor Hugo,731045.0,1862.0,misérables,458.0,valid1
+17516,L'Argent,Émile Zola,878102.0,1891.0,17516,546.0,valid4
+25276,Cours familier de Littérature - Volume 03,Alphonse de Lamartine,487627.0,1857.0,25276,299.0,valid2
+49397,Cours familier de Littérature - Volume 23,Alphonse de Lamartine,613354.0,1867.0,49397,361.0,valid1
+17589,Journal d'un voyageur pendant la guerre,George Sand,296166.0,1871.0,17589,183.0,valid4
+29843,"Les contemplations: Autrefois, 1830-1843",Victor Hugo,227741.0,1830.0,contemplations,138.0,valid2
+12666,"Consuelo, Tome 1 (1861)",George Sand,620108.0,1861.0,Consuelo,385.0,valid1
+57430,Œuvres complètes de Guy de Maupassant - volume 13,Guy de Maupassant,650131.0,1902.0,57430,411.0,test
+64427,"Albertine disparue Vol 1 (of 2) À la recherche du temps perdu, Tome 7",Marcel Proust,325095.0,1925.0,Recherche,187.0,valid4
+29844,"Les contemplations: Aujourd'hui, 1843-1856",Victor Hugo,285418.0,1843.0,contemplations,173.0,valid2
+17914,Mistress Branican,Jules Verne,723987.0,1891.0,17914,456.0,valid4
+49399,Cours familier de Littérature - Volume 25,Alphonse de Lamartine,460999.0,1868.0,49399,284.0,valid4
+8416,Nouveaux Contes à Ninon,Émile Zola,305426.0,,Ninon,191.0,valid1
+7461,Thérèse Raquin,Émile Zola,402958.0,,7461,253.0,valid3
+5104,Histoire d'un casse-noisette,Alexandre Dumas,252315.0,,5104,150.0,valid2
+17517,L'oeuvre,Émile Zola,793727.0,1886.0,17517,503.0,valid4
+15075,Sodome et Gomorrhe - Deuxième partie,Marcel Proust,621884.0,,Recherche,375.0,valid4
+38736,Cours familier de Littérature - Volume 11,Alphonse de Lamartine,512559.0,1861.0,38736,313.0,test
+13947,"Le vicomte de Bragelonne, Tome I.",Alexandre Dumas,1004809.0,1848.0,mousquetaires,639.0,valid4
+57454,"Mémoires de Garibaldi, tome 2/2",Alexandre Dumas,292345.0,,Garibaldi,179.0,test
+17519,Les misérables Tome V: Jean Valjean,Victor Hugo,625332.0,1862.0,misérables,393.0,valid1
+14162,Les tribulations d'un chinois en Chine,Jules Verne,355437.0,1875.0,14162,221.0,valid4
+13949,"Le vicomte de Bragelonne, Tome III.",Alexandre Dumas,883422.0,1848.0,mousquetaires,563.0,valid4
+64428,"Albertine disparue Vol 2 (of 2) À la recherche du temps perdu, Tome 7",Marcel Proust,302486.0,1925.0,Recherche,172.0,valid4
+27314,Cours familier de Littérature - Volume 06,Alphonse de Lamartine,493847.0,1858.0,27314,307.0,valid4
+46747,Gabriel Lambert,Alexandre Dumas,370058.0,1875.0,46747,231.0,valid1
+15646,Nord contre sud,Jules Verne,655230.0,1887.0,15646,417.0,valid4
+21017,"La San-Felice, Tome 08, Emma Lyonna, tome 4",Alexandre Dumas,357838.0,1876.0,San-Felice,220.0,valid1
+49398,Cours familier de Littérature - Volume 24,Alphonse de Lamartine,677916.0,1867.0,49398,397.0,valid3
+53439,Les voyageurs du XIXe siècle,Jules Verne,942808.0,,53439,594.0,valid4
+6319,Bric-à-brac,Alexandre Dumas,290234.0,,6319,179.0,valid4
+14564,Césarine Dietrich,George Sand,456476.0,1897.0,14564,288.0,valid4
+48881,"OEuvres complètes de Gustave Flaubert, tome 2: Salammbô",Gustave Flaubert,675700.0,1885.0,48881,432.0,valid2
+13892,Le meunier d'Angibault,George Sand,645256.0,,13892,406.0,valid4
+49446,Cours familier de Littérature - Volume 28,Alphonse de Lamartine,338173.0,1869.0,49446,207.0,valid4
+13866,"Le Naturalisme au théâtre, les théories et les exemples",Émile Zola,630524.0,,13866,401.0,valid4
+18826,"La San-Felice, Tome 06",Alexandre Dumas,372790.0,1882.0,San-Felice,229.0,valid1
+13857,La reine Margot - Tome II,Alexandre Dumas,575097.0,1845.0,Valois,362.0,valid4
+41080,Cours familier de Littérature - Volume 22,Alphonse de Lamartine,548784.0,1866.0,41080,325.0,valid4
+17251,Valentine,George Sand,560381.0,1832.0,17251,356.0,test
+39738,Lélia,George Sand,918199.0,1867.0,39738,585.0,valid2
+21191,"La San-Felice, Tome 09, Emma Lyonna, tome 5",Alexandre Dumas,354931.0,1876.0,San-Felice,219.0,valid1
+6838,Le Dernier Jour d'un Condamné,Victor Hugo,198880.0,1802.0,6838,119.0,valid3
+67940,Œuvres complètes de Guy de Maupassant - volume 19,Guy de Maupassant,305007.0,1902.0,67940,189.0,valid4
+61411,Le beau Laurence,George Sand,367924.0,1872.0,61411,230.0,valid4
+4791,Voyage au Centre de la Terre,Jules Verne,418716.0,1863.0,4791,265.0,valid2
+5082,Le chateâu des Carpathes,Jules Verne,310287.0,,5082,190.0,valid1
+13431,André,George Sand,370138.0,,13431,233.0,valid4
+8563,La Terre,Émile Zola,979327.0,,8563,627.0,valid4
+13258,"Consuelo, Tome 2 (1861)",George Sand,639294.0,1861.0,Consuelo,403.0,valid1
+13856,La reine Margot - Tome I,Alexandre Dumas,629075.0,1845.0,Valois,395.0,valid4
+5423,L'homme Qui Rit,Victor Hugo,1195178.0,1869.0,5423,765.0,valid4
+52893,"OEuvres complètes de Gustave Flaubert, tome 4: L'éducation sentimentale, v. 2",Gustave Flaubert,458173.0,1885.0,education,290.0,test
+17832,Une ville flottante,Jules Verne,250970.0,1871.0,17832,156.0,test
+13668,Le château des Désertes,George Sand,294819.0,,13668,183.0,valid2
+37604,Cours familier de Littérature - Volume 10,Alphonse de Lamartine,450970.0,1860.0,37604,270.0,test
+17693,"La San-Felice, Tome 01",Alexandre Dumas,388396.0,1800.0,San-Felice,234.0,valid1
+7772,Les Quarante-Cinq — Tome 3,Alexandre Dumas,459954.0,,Valois,287.0,valid4
+17660,L'archipel en feu,Jules Verne,362647.0,1884.0,17660,226.0,valid4
